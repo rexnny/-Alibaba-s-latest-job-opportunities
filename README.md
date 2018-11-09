@@ -1,14 +1,11 @@
-# -Alibaba-s-latest-job-opportunities
-阿里巴巴集团职位持续更新---先更新1年
+岗位描述： 
 
-达摩院-数据库实验室-Researcher-杭州/美国/北京Job Description 
 Alibaba’s Database Kernel Team plays critical role in supporting the world’s largest e-commence and online payment platform, and leading the innovations for relational database systems. With in-depth integration of the newest Internet concepts, our team undertakes the breakthrough of key technologies in the areas of database and distributed systems, focusing on high availability and strong data consistency, to meet internet scale business requirements. 
 We introduce the cutting-edge database technologies to extend the territory of database management. Based on the co-design of software and hardware systems, we are building high performance database systems by taking advantage of architectures of modern CPU, memory and storage. Not only do we want to drive Alibaba’s still fast-growing business, but we also allow more enterprise customers to minimize the effort required to build highly concurrent and scalable systems for their business. 
 We have challenging and interesting problems to solve in database kernel and distributed systems. Welcome to join us to work and grow with talented engineers spreading across Hangzhou, Beijing and Silicon Valley. It’s an exciting journey to build the world’s best database system! 
 
 指导思想 
-拥抱开源，引领变革
-
+拥抱开源，引领变革 
 
 研究方向：
 1.OLTP与HTAP引擎
@@ -20,7 +17,8 @@ We have challenging and interesting problems to solve in database kernel and dis
 
 工作地点：
 base地可以open to： Sunnyvale， 新加坡， 杭州， 北京
-岗位要求
+
+岗位要求： 
 Qualifications 
 
 • Bachelor's Degree in Computer Science or equivalent - Masters or Ph.D. in CS preferred. 
@@ -38,4 +36,7 @@ Qualifications
 4. 对数据库有极致的热爱，对业界数据库的发展现状和未来趋势，有自己独到的见解 
 5. 全面的架构视野，对业务有深入的理解，并且能够通过业务诉求抽象出数据库内核层面的改进 
 6. 开放学习的心态，主动学习，能从不同的技术领域吸收先进经验 
-7. 良好的沟通，善于通过团队协作达成目标
+7. 良好的沟通，
+
+-  ------------------------------------------------- -------------------------------------------------- -------------------------------
+Those who are interested in opportunities are welcome to contact me,email: alan.zhang@rupro.cn, please attach the contact information, thank you！
